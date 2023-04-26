@@ -1,7 +1,7 @@
 <p data-ke-size="size16">&nbsp;</p>
 <h2 data-ke-size="size20"><b>[코딩테스트 문제 풀 때 주의&amp;참고할 point]</b></h2>
 <div class="moreless-content">
-
+<hr contenteditable="false" data-ke-type="horizontalRule" data-ke-style="style6" />
   <p style="color: #333333; text-align: start;" data-ke-size="size16"><b>1. 시간 제한을 고려할 때<span>&nbsp;</span>연산 횟수로 문제를 해결해야 한다.</b></p>
 <p style="color: #333333; text-align: start;" data-ke-size="size16">따라서 문제에서 주어진 시간 제한과 데이터 크기를 바탕으로 어떤 정렬 알고리즘을 사용해야 할 것인지 판단할 수 있다.</p>
 <p style="color: #333333; text-align: start;" data-ke-size="size16">&nbsp;</p>
@@ -20,4 +20,3 @@
 <p style="color: #333333; text-align: start;" data-ke-size="size16">가장 하기 쉬운 실수는 자료형 범위 오류이다. 이러한 오류를 예방하는 방법은 변수를 처음부터 long형으로 선언하는 것이다. 대부분의 코딩 테스트에서 계산되는 값들은 long형 안에서 표현할 수 있다.</p>
 </div>
 </div>
-<hr contenteditable="false" data-ke-type="horizontalRule" data-ke-style="style6" />
